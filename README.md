@@ -6,7 +6,7 @@ Como baixar o repositório
 -------------------------
 + Com o git instalado, use o comando `git clone https://github.com/sergiojose1/LibraryApi.git` para clonar o repositório.
 + Depois de clonar o repositório, acesse o diretório do projeto utilizando o comando `cd LibraryApi`.
-
++ Por fim, instale instale dependências com `npm install`. 
 
 Pré-Requisitos
 ---------------
@@ -18,7 +18,11 @@ Pré-Requisitos
 
 Como Contribuir
 ---------------
-
+1. Faça um fork do repositório.
+2. Crie um branch para sua feature com `git checkout -b minha-feature`.
+3. Commit suas alterações: `git commit -m 'Adicionei uma nova feature'`.
+4. Envie para o repositório remoto: `git push origin minha-feature`.
+5. Abra um pull request.
 
 Autores
 -----------
@@ -29,4 +33,8 @@ Autores
 |Eric Junior da Silva|Documentador|EricLem0s|
 |William Barbosa Vasconelos|Desenvolvedor|Willvsc|
 |Gabriel Antônio Santos da Silva|Desenvolvedor|
+
+Licença
+--------
+Este projeto é licenciado sob a licença Creative Commons. Consulte o arquivo LICENSE para mais detalhes.
 
