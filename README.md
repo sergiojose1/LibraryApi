@@ -24,7 +24,7 @@ Autores
 -----------
 |Nome|Função|GitHub|
 |---|---|---|
-|Lestat Nickollas da Silva|Scrum Master|
+|Lestat Nickollas da Silva|Scrum Master|Lestatnick|
 |Sérgio José de Araújo Junior|Gerente de Configuração|sergiojose1|
 |Eric Junior da Silva|Documentador|EricLem0s|
 |William Barbosa Vasconelos|Documentador|Willvsc|
