@@ -1,16 +1,14 @@
-![image](https://github.com/user-attachments/assets/47e68a82-1124-48f9-ab83-4d0fec28e797)# LibraryApi
-
-#Descrição do Projeto
+Descrição do Projeto
 --------------------
 A LibraryApi é uma aplicação desenvolvida para gerenciar o sistema de uma biblioteca. A API permite o cadastro, consulta e gerenciamento de livros, usuários e empréstimos, facilitando o controle das operações relacionadas à biblioteca.
 
-#Como baixar o repositório
+Como baixar o repositório
 -------------------------
 + Com o git instalado, use o comando `git clone https://github.com/sergiojose1/LibraryApi.git` para clonar o repositório.
 + Depois de clonar o repositório, acesse o diretório do projeto utilizando o comando `cd LibraryApi`.
 
 
-#Pré-Requisitos
+Pré-Requisitos
 ---------------
 + Node.js.
 + Express.js.
@@ -18,11 +16,11 @@ A LibraryApi é uma aplicação desenvolvida para gerenciar o sistema de uma bib
 + MySQL Workbench.
 + Nodemon(opcional).
 
-#Como Contribuir
+Como Contribuir
 ---------------
 
 
-#Autores
+Autores
 -----------
 |Nome|Função|GitHub|
 |---|---|---|
