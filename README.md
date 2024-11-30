@@ -1,4 +1,4 @@
-# LibraryApi
+![image](https://github.com/user-attachments/assets/47e68a82-1124-48f9-ab83-4d0fec28e797)# LibraryApi
 
 #Descrição do Projeto
 --------------------
@@ -25,6 +25,7 @@ A LibraryApi é uma aplicação desenvolvida para gerenciar o sistema de uma bib
 #Autores
 -----------
 |Nome|Função|GitHub|
+|---|---|---|
 |Lestat Nickollas da Silva|Scrum Master|
 |Sérgio José de Araújo Junior|Gerente de Configuração|sergiojose1|
 |Eric Junior da Silva|Documentador|EricLem0s|
