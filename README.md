@@ -6,7 +6,7 @@ Como baixar o repositório
 -------------------------
 + Com o git instalado, use o comando `git clone https://github.com/sergiojose1/LibraryApi.git` para clonar o repositório.
 + Depois de clonar o repositório, acesse o diretório do projeto utilizando o comando `cd LibraryApi`.
-+ Por fim, instale instale dependências com `npm install`. 
++ Por fim, instale as dependências com `npm install`. 
 
 Pré-Requisitos
 ---------------
