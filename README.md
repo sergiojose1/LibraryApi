@@ -23,7 +23,6 @@ A LibraryApi é uma aplicação desenvolvida para gerenciar o sistema de uma bib
 
 
 #Autores
-|---|
 |Nome|Função|GitHub|
 |Lestat Nickollas da Silva|Scrum Master|
 |Sérgio José de Araújo Junior|Gerente de Configuração|sergiojose1|
