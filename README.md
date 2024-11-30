@@ -6,8 +6,8 @@ A LibraryApi é uma aplicação desenvolvida para gerenciar o sistema de uma bib
 
 Como baixar o repositório
 -------------------------
-Com o git instalado, use o comando "git clone https://github.com/sergiojose1/LibraryApi.git" para clonar o o repositório.
-Depois de clonaro repositório, acesse o diretório do projeto utilizando o comando "cd LibraryApi".
+Com o git instalado, use o comando "git clone https://github.com/sergiojose1/LibraryApi.git" para clonar o repositório.
+Depois de clonar o repositório, acesse o diretório do projeto utilizando o comando "cd LibraryApi".
 
 
 Pré-Requisitos
