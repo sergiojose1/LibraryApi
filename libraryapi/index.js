@@ -5,12 +5,11 @@ const router = require("./rotas/index");
 const conexao = require("./datab/conexao");
 const tabelas = require("./datab/tabelas");
 
+
 const port = 3000;
 
-
+router(app, express);
 tabelas.init(conexao);
-
-router(app);
 
 
 app.listen(3000, (error) => {
