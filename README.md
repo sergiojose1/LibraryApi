@@ -1,4 +1,4 @@
-Descrição do Projeto
+Descrição
 --------------------
 A LibraryApi é uma aplicação desenvolvida para gerenciar o sistema de uma biblioteca. A API permite o cadastro, consulta e gerenciamento de livros, usuários e empréstimos, facilitando o controle das operações relacionadas à biblioteca.
 
