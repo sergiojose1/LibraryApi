@@ -36,7 +36,8 @@ Autores
 
 Mapa Mental
 ----------
-!(file:///C:/Users/sergio/Desktop/mapa%20mental%20library.pdf)
+![Imagem do mapa mental da LibraryApi]
+(file:///C:/Users/sergio/Desktop/mapa%20mental%20library.pdf)
 
 Licença
 --------
