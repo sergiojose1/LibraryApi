@@ -36,7 +36,8 @@ Autores
 
 Mapa Mental
 ----------
-!(https://github.com/user-attachments/assets/88e19d34-bdcb-4f17-a9dc-5a7d9b086045)
+![mapa mental library_page-0001](https://github.com/user-attachments/assets/6d4fe913-bd42-4b35-a533-0d99f9a027a7)
+
 
 Licença
 --------
