@@ -43,8 +43,3 @@ Mapa Mental
 ----------
 ![mapa mental library_page-0001](https://github.com/user-attachments/assets/6d4fe913-bd42-4b35-a533-0d99f9a027a7)
 
-
-Licença
---------
-Este projeto é licenciado sob a licença Creative Commons. Consulte o arquivo LICENSE para mais detalhes.
-
