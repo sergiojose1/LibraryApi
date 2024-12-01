@@ -30,7 +30,7 @@ Como contribuir
 1. Faça um fork do repositório.
 
 2. Clone o repositório:
-    + git clone https://github.com/sergiojose1/LibraryAPI.git
+    + `git clone https://github.com/sergiojose1/LibraryAPI.git`
 
 3. Crie um branch.
 
