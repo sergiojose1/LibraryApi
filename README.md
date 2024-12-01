@@ -10,11 +10,11 @@ Como baixar o repositório
 
 Pré-Requisitos
 ---------------
-+ Node.js.
-+ Express.js.
-+ MySQL.
-+ MySQL Workbench.
-+ Nodemon(opcional).
++ Node.js: Plataforma de desenvolvimento JavaScript.
++ Express.js: Framework que permite desenvolvimento de APIs.
++ MySQL: Banco de dados utilizado para armazenar informações.
++ MySQL Workbench: ferramenta visual que permite criar, modificar e gerenciar bancos de dados relacionais MySQL
++ Nodemon(opcional): é uma ferramenta de linha de comando (CLI) que monitora e reinicia automaticamente o servidor Node.js quando há alterações nos arquivos da aplicação.
 
 Como Contribuir
 ---------------
