@@ -43,3 +43,8 @@ Mapa Mental
 ----------
 ![mapa mental library_page-0001](https://github.com/user-attachments/assets/6d4fe913-bd42-4b35-a533-0d99f9a027a7)
 
+Diagrama de Classes
+-------
+![Diagrama de Classes](https://github.com/user-attachments/assets/b9cf9fad-67e3-4b95-b8e7-a4bbadd0e4b1)
+
+
