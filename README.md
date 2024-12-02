@@ -45,7 +45,8 @@ Mapa Mental
 
 Diagrama de Classes
 -------
-![Diagrama de Classes](https://github.com/user-attachments/assets/b9cf9fad-67e3-4b95-b8e7-a4bbadd0e4b1)
+![Diagrama em branco](https://github.com/user-attachments/assets/b40724cd-5174-47e5-b98b-8d95fbbcfd88)
+
 
 Estrutura Analítica do Projeto
 --------
