@@ -47,4 +47,9 @@ Diagrama de Classes
 -------
 ![Diagrama de Classes](https://github.com/user-attachments/assets/b9cf9fad-67e3-4b95-b8e7-a4bbadd0e4b1)
 
+Estrutura Analítica do Projeto
+--------
+![ESTRUTURA_ANALITICA_DO_PROJETO_(EAP)_page-0001](https://github.com/user-attachments/assets/d61c0469-eb89-4ece-9858-90b84ef8212e)
+
+
 
