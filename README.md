@@ -12,8 +12,7 @@ Pré-Requisitos
 ---------------
 + Node.js: Plataforma de desenvolvimento JavaScript.
 + Express.js: Framework que permite desenvolvimento de APIs.
-+ MySQL: Banco de dados utilizado para armazenar informações.
-+ MySQL Workbench: ferramenta visual que permite criar, modificar e gerenciar bancos de dados relacionais MySQL
++ SQLite: Biblioteca que implementa um banco de dados SQL embutido.
 + Nodemon(opcional): é uma ferramenta de linha de comando (CLI) que monitora e reinicia automaticamente o servidor Node.js quando há alterações nos arquivos da aplicação.
 
 Como Contribuir
@@ -28,16 +27,19 @@ Autores
 -----------
 |Nome|Função|GitHub|
 |---|---|---|
-|Lestat Nickollas da Silva|Scrum Master|Lestatnick|
+|William Barbosa Vasconelos|Scrum Master|Willvsc|
 |Sérgio José de Araújo Junior|Gerente de Configuração|sergiojose1|
 |Eric Junior da Silva|Documentador|EricLem0s|
-|William Barbosa Vasconelos|Desenvolvedor|Willvsc|
+|Lestat Nickollas da Silva|Desenvolvedor|Lestatnick|
 |Gabriel Antônio Santos da Silva|Desenvolvedor|Gabriel1AMR|
+
+Teste
+_________
+![testeLibraryApi](https://github.com/user-attachments/assets/6e856f46-d84d-46ae-b1d8-3a4af7108400)
 
 Fluxograma
 ---------
 ![Fluxograma](https://github.com/user-attachments/assets/96fce676-ccac-4d45-81e3-98f6467cdf7e)
-
 
 Mapa Mental
 ----------
