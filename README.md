@@ -48,6 +48,11 @@ Teste
 _________
 ![testeLibraryApi](https://github.com/user-attachments/assets/6e856f46-d84d-46ae-b1d8-3a4af7108400)
 
+Diagrama UML
+---------
+![diagrama UML](https://github.com/user-attachments/assets/6c3546d1-8944-4498-8a8d-d0845fdc8ff5)
+
+
 Diagrama Bnaco de Dados
 -------
 ![Diagrama banco de dados](https://github.com/user-attachments/assets/4d96fc05-fd47-42b8-b2f3-a64ee8afa51b)
